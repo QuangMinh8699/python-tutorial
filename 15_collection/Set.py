@@ -19,5 +19,5 @@ for fruit in fruits:
 fruits.clear()
 print(fruits)
 
-# print(dir(fruits))
-# print(help(fruits))
+print(dir(fruits))
+print(help(fruits))
